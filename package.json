@@ -1,0 +1,15 @@
+{
+  "name": "helloworld.php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kalpana",
+  "license": "ISC",
+  "dependencies": {
+    "react-facebook-login": "^4.1.1",
+    "react-login": "^0.1.0"
+  }
+}
